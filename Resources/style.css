@@ -203,10 +203,19 @@ footer{
   justify-content: center;
   align-items: center;
   background-color: black;
+}
 
+footer h2{
+  margin: 0px;
+  padding-bottom: 2rem;
+}
+footer h5{
+  margin: 0px;
+  padding-bottom: 2rem;
 }
 /*footer*/
 .copyright{
   padding-left: 20px;
-  font-size: 12px;
+  padding-top: 1rem;
+
 }
